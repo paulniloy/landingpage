@@ -5,7 +5,7 @@ const Heading = () => {
         <div className='p-20'>
             
             <h1 className=" text-4xl font-bold italic">Blog's Page</h1>
-            <p className='text-xl font-medium italic text-center'>--Criceket blogs--</p>
+            <p className='text-xl font-medium italic text-center'>--Cricket blogs--</p>
         </div>
     );
 };
